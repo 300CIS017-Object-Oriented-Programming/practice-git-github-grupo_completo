@@ -1,4 +1,4 @@
 # Prueba de archivo
 
-## Esta es una prueba del repositorio
+## xd
 Contenido de prueba escrito por luisa
